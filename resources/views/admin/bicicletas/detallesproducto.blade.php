@@ -9,7 +9,7 @@
 
     <meta name="theme-color" content="#000000" />
 
-    <title>Como crear un CRUD con Laravel 6.2 y Bootstrap 4 </title>
+    <title>Como crear un CRUD con Galería de Imágenes en Laravel 6.2 y Bootstrap 4 </title>
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" type="text/css" href="{{ URL::asset('css/app.css') }}"> 
@@ -77,7 +77,7 @@
 
             <div class="col-md-12">
 
-              <h1 style="font-size: 28px;" class=" text-center">Como crear un CRUD con Laravel 6.2 y Bootstrap 4 </h1>
+              <h1 style="font-size: 28px;" class=" text-center">Como crear un CRUD con Galería de Imágenes en Laravel 6.2 y Bootstrap 4 </h1>
 
               <div class="header">
          <div class="container">
